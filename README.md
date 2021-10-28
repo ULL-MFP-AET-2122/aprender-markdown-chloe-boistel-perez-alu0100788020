@@ -14,3 +14,7 @@ As Rihanna said:
 
 # Nací en un pueblo
 ![Cher](https://upload.wikimedia.org/wikipedia/commons/b/bb/Cher_in_2019_cropped.jpg)
+
+<img
+     width="50%"
+     src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Cher_in_2019_cropped.jpg"/>
