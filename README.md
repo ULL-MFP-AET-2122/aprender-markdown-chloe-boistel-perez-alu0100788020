@@ -16,12 +16,10 @@ Fecha | Ocupación
 
 
 
+Si tuviera que escoger una cita que me representara, sería cuando en **Thor: Ragnarok** *(2017)*, Loki dice:
+> It varies from moment to moment.
 
-As Rihanna said:
-> I'm a rich man
-
-## Pero Rihanna se lo había oído decir a una diosa primero:
 <img
      width="50%"
-     src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Cher_in_2019_cropped.jpg"/>
-
+     src="https://pics.filmaffinity.com/thor_ragnarok-115636540-large.jpg"/>
+https://www.filmaffinity.com/es/film546383.html
