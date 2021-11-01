@@ -25,7 +25,7 @@ Alien | TOMI
 Oh no! | Marina
 GUY.EXE | SUPERFRUIT
 Problematic | Bo  Burnham
-A little prty never killed nobody | Fergie
+A little party never killed nobody | Fergie
 Go_A | Shum
 10 years | Daði og Gagnamagnið
 Boys | Charlie XCX
