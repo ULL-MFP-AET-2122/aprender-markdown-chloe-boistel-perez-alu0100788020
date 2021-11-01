@@ -6,11 +6,15 @@
 * **RepoMen** *(2010)*
 * **Blade Runner 2049** *(2017)*
 * **Sunshine** *(2007)*
+* **Intocable** *(2011)*
 * **El truco final** *(2006)*
-* **Regreso al futuro** *(1985)*
 * **Medianoche en el jardín del bien y del mal** *(1997)*
 * **Thor: Ragnarok** *(2017)*
+* **Regreso al futuro** *(1985)*
+* **The Normal Heart** *(2014)*
 * **Alabama Monroe** *(2012)*
+* **Bailo por dentro** *(2004)*
+
 
 
 As Rihanna said:
