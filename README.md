@@ -20,6 +20,7 @@ Si tuviera que escoger una cita que me representara, sería cuando en **Thor: Ra
 > It varies from moment to moment.
 
 <img
-     width="50%"
+     width="30%"
      src="https://pics.filmaffinity.com/thor_ragnarok-115636540-large.jpg"/>
+     
 https://www.filmaffinity.com/es/film546383.html
