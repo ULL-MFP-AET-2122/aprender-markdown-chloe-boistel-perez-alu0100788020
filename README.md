@@ -24,3 +24,6 @@ Si tuviera que escoger una cita que me representara, sería cuando en **Thor: Ra
      src="https://pics.filmaffinity.com/thor_ragnarok-115636540-large.jpg"/>
      
 https://www.filmaffinity.com/es/film546383.html
+
+
+![photo_2021-11-01_01-25-28 - copia](https://user-images.githubusercontent.com/93216010/139609306-e0c69b44-9923-433f-8d12-0f25d312f186.jpg)
