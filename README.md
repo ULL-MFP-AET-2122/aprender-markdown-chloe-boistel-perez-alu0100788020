@@ -3,9 +3,9 @@
 # Chloe Boistel Pérez
 ## Mis películas favoritas
 
-* **RepoMen** *(2010)*
+* **Repo Men** *(2010)* https://www.filmaffinity.com/es/film437847.html
 * **Blade Runner 2049** *(2017)*
-* **Sunshine** *(2007)*
+* **Sunshine** *(2007)* https://www.filmaffinity.com/es/film181908.html
 * **Intocable** *(2011)*
 * **El truco final** *(2006)*
 * **Medianoche en el jardín del bien y del mal** *(1997)*
@@ -32,7 +32,7 @@ Boys | Charlie XCX
 Demons | The All-American Rejects
 Take me to church | Hozier
 
-https://campusdoctoradoyposgrado2122.ull.es/user/profile.php?id=3145
+
 
 As Rihanna said:
 > I'm a rich man
