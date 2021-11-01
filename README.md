@@ -15,10 +15,22 @@
 * **Alabama Monroe** *(2012)*
 * **Bailo por dentro** *(2004)*
 
-First Header | Second Header
+
+## Algunas canciones que ahora me obsesionan
+
+Canción | Artista
 ------------ | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
+Chosen | Måneskin
+Alien | TOMI
+Oh no! | Marina
+GUY.EXE | SUPERFRUIT
+Problematic | Bo  Burnham
+A little prty never killed nobody | Fergie
+Go_A | Shum
+10 years | Daði og Gagnamagnið
+Boys | Charlie XCX
+Demons | The All-American Rejects
+Take me to church | Hozier
 
 
 
