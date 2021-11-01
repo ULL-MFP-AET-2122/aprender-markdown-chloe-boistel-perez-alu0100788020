@@ -30,6 +30,8 @@ https://www.filmaffinity.com/es/film546383.html
 Esta bola de pelo es **Sinclair**:
 ![photo_2021-11-01_01-25-28 - copia](https://user-images.githubusercontent.com/93216010/139609306-e0c69b44-9923-433f-8d12-0f25d312f186.jpg)
 
+Intento de inline code ```hola```
+
 ```
 function fancyAlert(arg) {
   if(arg) {
