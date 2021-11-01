@@ -17,7 +17,7 @@ Fecha | Ocupación
 
 
 Si tuviera que escoger una cita que me representara, sería cuando en **Thor: Ragnarok** *(2017)*, Loki dice:
-> It varies from moment to moment.
+> It varies from moment to moment. :smirk:
 
 <img
      width="30%"
