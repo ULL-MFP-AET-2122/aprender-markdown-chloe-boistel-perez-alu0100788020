@@ -21,9 +21,7 @@ As Rihanna said:
 
 > I'm a rich man
 
-# Nací en un pueblo
-![Cher](https://upload.wikimedia.org/wikipedia/commons/b/bb/Cher_in_2019_cropped.jpg)
-
+# Pero Rihanna se lo había oído decir a una diosa primero_
 <img
      width="50%"
      src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Cher_in_2019_cropped.jpg"/>
