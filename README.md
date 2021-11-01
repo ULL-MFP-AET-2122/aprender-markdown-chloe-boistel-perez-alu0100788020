@@ -21,7 +21,7 @@ As Rihanna said:
 
 > I'm a rich man
 
-# Pero Rihanna se lo había oído decir a una diosa primero_
+# Pero Rihanna se lo había oído decir a una diosa primero:
 <img
      width="50%"
      src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Cher_in_2019_cropped.jpg"/>
