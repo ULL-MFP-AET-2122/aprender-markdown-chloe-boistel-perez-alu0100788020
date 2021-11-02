@@ -32,7 +32,7 @@ Esta bola de pelo es **Sinclair**:
 
 Inline code: `hola`
 
-```
+```python
 function fancyAlert(arg) {
   if(arg) {
     $.facebox({div:'#foo'})
