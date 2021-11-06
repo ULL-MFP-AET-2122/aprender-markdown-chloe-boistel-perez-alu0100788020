@@ -39,7 +39,7 @@ As Rihanna said:
 
 ## Pero Rihanna se lo había oído decir a una diosa primero:
 <img
-     width="50%"
+     width="30%"
      src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Cher_in_2019_cropped.jpg"/>
 
 
